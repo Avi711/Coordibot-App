@@ -39,14 +39,11 @@ In addition, we have *bonus* featers as described below:
 ## Architecture
 <img src="https://github.com/Avi711/CoordiBot/assets/92336875/f96a18b2-eb1b-4402-a249-32ac5e773469" width="800">
 
-![image](https://github.com/ShirinBazis/Coordibot-App/assets/92336875/60a62708-460a-4704-b69b-eff9294e3624)
+<img src="https://github.com/ShirinBazis/Coordibot-App/assets/92336875/60a62708-460a-4704-b69b-eff9294e3624" width="700">
 
+<img src="https://github.com/ShirinBazis/Coordibot-App/assets/92336875/066a7343-451c-4b3e-9ae6-a6b699a0bc45" width="700">
 
-![image](https://github.com/ShirinBazis/Coordibot-App/assets/92336875/066a7343-451c-4b3e-9ae6-a6b699a0bc45)
+<img src="https://github.com/ShirinBazis/Coordibot-App/assets/92336875/1f66ce82-bab2-41a9-a675-1d76cf3c78bf" width="700">
 
-
-![image](https://github.com/ShirinBazis/Coordibot-App/assets/92336875/1f66ce82-bab2-41a9-a675-1d76cf3c78bf)
-
-![image](https://github.com/ShirinBazis/Coordibot-App/assets/92336875/c9bbbbd8-eb9d-450e-8252-983cc456aac0)
-
+<img src="https://github.com/ShirinBazis/Coordibot-App/assets/92336875/c9bbbbd8-eb9d-450e-8252-983cc456aac0" width="700">
 
